@@ -1,0 +1,17 @@
+{
+  "name": "tabulous.js-axi",
+  "version": "1.0.0",
+  "main": ["demo/src/tabulous.min.js"],
+  "ignore": [
+    "**/.*"
+  ],
+  "authors": [
+    "Aaron Lumsden"
+  ],
+  "description": "jQuery tabs module",
+  "keywords": [
+    "jquery",
+    "tab"
+  ],
+  "license": "MIT"
+}
