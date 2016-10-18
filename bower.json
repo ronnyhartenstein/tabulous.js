@@ -1,7 +1,7 @@
 {
   "name": "tabulous.js-axi",
   "version": "1.0.0",
-  "main": ["demo/src/tabulous.min.js"],
+  "main": ["demo/src/tabulous.js"],
   "ignore": [
     "**/.*"
   ],
